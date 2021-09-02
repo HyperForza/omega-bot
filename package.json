@@ -13,7 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "author": "! Apo",
   "license": "ISC"
